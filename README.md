@@ -228,8 +228,8 @@ You are free to:
 
 Created with ❤️ by **Akram Khan**
 
-- 🌐 Portfolio: [yourwebsite.com](https://coder-akram-khan.github.io/akramkhan/)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/mr-akram-khan/)
+- 🌐 Portfolio: [coder-akram-khan](https://coder-akram-khan.github.io/akramkhan/)
+- 💼 LinkedIn: [in/mr-akram-khan/](https://www.linkedin.com/in/mr-akram-khan/)
 - 📧 Email: akram.codes.it@gmail.com
 
 ---
